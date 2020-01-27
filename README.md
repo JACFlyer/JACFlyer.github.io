@@ -1,5 +1,10 @@
-# Jonathan Cade
+## Introduction  
 
-## Projects
+Introduce yourself?
+What do you aim to do?
+What do you plan to do after BOOTCAMP?
 
-* TBD
+## Projects  
+
+Link to one or more of the repositories worked on during the class
+[]()
