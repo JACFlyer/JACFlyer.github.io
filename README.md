@@ -12,4 +12,3 @@ A passion for science and _making_ led Asa to software development.  His goal is
 
 * [A Pregnancy Home Care App](https://github.com/JACFlyer/april)  
 * [Group Android Project](https://github.com/JACFlyer/nasa-apod)  
-* [A Beginning Effort](https://github.com/JACFlyer/fizz-buzz)  
