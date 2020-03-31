@@ -9,11 +9,17 @@ A passion for science and  _making_  led Asa to software development.  His goal 
 
 
 ## Projects
-# _(in order of development)_  
+### _(in order of development)_  
 
 * [Hello World](https://github.com/JACFlyer/hello-world)
+
+* [Codingbat Exercises - examples of critical thinking process](https://github.com/JACFlyer/Tutoring/tree/master/src)
+
 * [Mystery Pattern](https://github.com/JACFlyer/mystery-pattern)
+
 * [Notes](https://github.com/JACFlyer/Notes)
+
 * [APRIL _Applied Pregnancy Informatics_]( https://jacflyer.github.io/Aprilv2/)  
+
 * [Capstone Project]()
  
