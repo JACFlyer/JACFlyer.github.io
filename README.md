@@ -9,7 +9,7 @@ A passion for science and  _making_  led Asa to software development.  His goal 
 
 
 
-## Projects ### _(in order of development)_  
+## Projects and Course Work  
 
 * [Hello World](https://github.com/JACFlyer/android-hello-world2)
 
