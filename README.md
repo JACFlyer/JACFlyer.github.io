@@ -11,7 +11,7 @@ A passion for science and  _making_  led Asa to software development.  His goal 
 
 ## Projects ### _(in order of development)_  
 
-* [Hello World](https://github.com/JACFlyer/hello-world)
+* [Hello World](https://github.com/JACFlyer/deep-dive-hello-world-ij)
 
 * [Codingbat Exercises - examples of critical thinking process](https://github.com/JACFlyer/Tutoring/tree/master/src)
 
