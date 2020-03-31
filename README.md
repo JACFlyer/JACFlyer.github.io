@@ -8,8 +8,12 @@ After completing a B.A. in Italian language and literature, Asa completed gradua
 A passion for science and  _making_  led Asa to software development.  His goal is to pioneer biotechnology in the fields of nursing and medicine.  After graduating from the Deep Dive Coding BOOTCAMP, Asa intends on working as a software developer and continuing his education unto a doctorate in Bioinformatics.  
 
 
-## Projects  
+## Projects
+# _(in order of development)_  
 
+* [Hello World](https://github.com/JACFlyer/hello-world)
+* [Mystery Pattern](https://github.com/JACFlyer/mystery-pattern)
+* [Notes](https://github.com/JACFlyer/Notes)
 * [APRIL _Applied Pregnancy Informatics_]( https://jacflyer.github.io/Aprilv2/)  
 * [Capstone Project]()
-*  
+ 
